@@ -1,0 +1,19 @@
+jar {
+    manifest {
+        attributes('Main-Class': 'jxtras.primitive.application.Main')
+    }
+
+    from {
+        configurations.compile.collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    }
+}
+
+configurations {
+    jar.archiveName = 'primitive-app.jar'
+}
+
+dependencies {
+    compile project(':lib')
+}

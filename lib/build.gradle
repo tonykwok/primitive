@@ -1,0 +1,7 @@
+configurations {
+    jar.archiveName = 'primitive-lib.jar'
+}
+
+dependencies {
+   // testCompile "junit:junit:4+"
+}
