@@ -1,6 +1,6 @@
 # Primitive Pictures
 
-Yet another Java porting of [Michael Fogleman](https://www.michaelfogleman.com/)'s [primitive](primitive.lol) that recreates your photos with vector-based geometric primitives
+Yet another Java porting of Michael Fogleman's [Primitive for macOS](https://primitive.lol/) that recreates your photos with vector-based geometric primitives
 
 ![Example](https://tonykwok.github.io/assets/images/primitive-java-swing.png)
 
