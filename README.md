@@ -4,4 +4,4 @@ Yet another Java porting of Michael Fogleman's [Primitive for macOS](https://pri
 
 ![Example](https://tonykwok.github.io/assets/images/primitive-java-swing.png)
 
-In the example above, the picture is composed of ```3731``` circles.
+> In the example above, the picture is composed of ```3731``` circles.
